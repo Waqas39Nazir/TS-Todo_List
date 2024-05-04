@@ -1,0 +1,23 @@
+{
+  "name": "waqas-nazir-todo-list",
+  "version": "1.0.0",
+  "description": "The open source package",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/gradient-string": "^1.1.6",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.8"
+  }
+}
